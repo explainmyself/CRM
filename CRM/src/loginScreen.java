@@ -277,7 +277,7 @@ public class loginScreen extends javax.swing.JFrame {
         //String 
           if (Pass == passDB){
               new MainScreen().setVisible(true);
-              System.out.println("it fuckin works");
+              System.out.println("it works");
          }
           
         
